@@ -16,7 +16,17 @@ Simulink를 활용한 Model-Based Development 프로젝트
 - 야간등 기능으로 야간에 원활한 시야 확보 가능
 
 
-# HardWare_Architecture
+# 3. HardWare_Architecture
 <p align="center">
   <img src="/Architecture/HardWare_Architecture.png" alt="HardWare_Architecture">
+</p>
+
+# 4. Integrated_Sub_Architecture 
+<p align="center">
+  <img src="/Architecture/Integrated_Sub_Architecture.png" alt="HardWare_Architecture">
+</p>
+
+# 5. Integrated_Architecture.png 
+<p align="center">
+  <img src="/Architecture/Integrated_Architecture.png" alt="HardWare_Architecture">
 </p>

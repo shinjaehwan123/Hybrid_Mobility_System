@@ -26,7 +26,7 @@ Simulink를 활용한 Model-Based Development 프로젝트
   <img src="/Architecture/Integrated_Sub_Architecture.png" alt="HardWare_Architecture">
 </p>
 
-# 5. Integrated_Architecture.png 
+# 5. Integrated_Architecture
 <p align="center">
   <img src="/Architecture/Integrated_Architecture.png" alt="HardWare_Architecture">
 </p>

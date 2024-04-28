@@ -14,3 +14,6 @@ Simulink를 활용한 Model-Based Development 프로젝트
 - 내연 모드에서 모터의 출력으로 배터리를 충전하여 주행거리 향상.
 - 동작중인 모터의 온도를 파악하여 속도를 조절해 내구성 향상.
 - 야간등 기능으로 야간에 원활한 시야 확보 가능
+
+
+![HardWare_Architecture](/Architecture/HardWare_Architecture.png){: .img-width-large}
